@@ -1,6 +1,7 @@
 # Вячеслав Vyacheslav · @webzuweb
 
 Разработчик ПО для мультимедийных систем автомобилей. Увлекаюсь ML, робототехникой, SLAM и time-series анализом.
+---
 Software developer for automotive multimedia systems. Interested in ML, robotics, SLAM, and time-series analysis.
 ---
 ## 🤝 Open source contribution (accepted changes)
