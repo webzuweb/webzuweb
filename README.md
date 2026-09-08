@@ -3,6 +3,14 @@
 Разработчик ПО для мультимедийных систем автомобилей. Увлекаюсь ML, робототехникой, SLAM и time-series анализом.
 
 ---
+## 🤝 Вклад в open source (принятые изменения)
+
+| Проект | PR |
+|---|---|
+| [onnx/onnx](https://github.com/onnx/onnx) ⭐ 21.4k | [#8383](https://github.com/onnx/onnx/pull/8383) — Fix GlobalMaxPool reference implementation for 3D inputs |
+| [nltk/nltk](https://github.com/nltk/nltk) ⭐ 14.7k | [#3819](https://github.com/nltk/nltk/pull/3819) — Fix newline in ellipsis tokens in TweetTokenizer |
+| [MichaelGrupp/evo](https://github.com/MichaelGrupp/evo) ⭐ 4.3k | [#779](https://github.com/MichaelGrupp/evo/pull/779) — Add `interpolate()` for resampling trajectories |
+| [copper-project/copper-rs](https://github.com/copper-project/copper-rs) ⭐ 1.5k | [#1313](https://github.com/copper-project/copper-rs/pull/1313) — fix(spatial): pin row-major layout for Transform3D |
 
 ## 🚀 Собственные проекты
 
@@ -35,11 +43,3 @@
 | [ch-backup](https://github.com/webzuweb/ch-backup) | [yandex/ch-backup](https://github.com/yandex/ch-backup) |
 | [manim](https://github.com/webzuweb/manim) | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) |
 
-## 🤝 Вклад в open source (принятые изменения)
-
-| Проект | PR |
-|---|---|
-| [onnx/onnx](https://github.com/onnx/onnx) ⭐ 21.4k | [#8383](https://github.com/onnx/onnx/pull/8383) — Fix GlobalMaxPool reference implementation for 3D inputs |
-| [nltk/nltk](https://github.com/nltk/nltk) ⭐ 14.7k | [#3819](https://github.com/nltk/nltk/pull/3819) — Fix newline in ellipsis tokens in TweetTokenizer |
-| [MichaelGrupp/evo](https://github.com/MichaelGrupp/evo) ⭐ 4.3k | [#779](https://github.com/MichaelGrupp/evo/pull/779) — Add `interpolate()` for resampling trajectories |
-| [copper-project/copper-rs](https://github.com/copper-project/copper-rs) ⭐ 1.5k | [#1313](https://github.com/copper-project/copper-rs/pull/1313) — fix(spatial): pin row-major layout for Transform3D |
