@@ -1,6 +1,6 @@
 # Vyacheslav Golitsin · @webzuweb
 
-Software developer for automotive multimedia systems. Interested in ML, robotics, SLAM, and time-series analysis.
+Software developer for automotive multimedia systems. Interested in ML and Robotics.
 
 ## 🤝 Open source contributions (accepted)
 
