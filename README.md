@@ -1,10 +1,8 @@
-# Вячеслав Vyacheslav · @webzuweb
+# Vyacheslav · @webzuweb
 
-Разработчик ПО для мультимедийных систем автомобилей. Увлекаюсь ML, робототехникой, SLAM и time-series анализом.
----
 Software developer for automotive multimedia systems. Interested in ML, robotics, SLAM, and time-series analysis.
----
-## 🤝 Open source contribution (accepted changes)
+
+## 🤝 Open source contributions (accepted)
 
 ### ML
 
@@ -19,36 +17,23 @@ Software developer for automotive multimedia systems. Interested in ML, robotics
 |---|---|
 | [MichaelGrupp/evo](https://github.com/MichaelGrupp/evo) ⭐ 4.3k | [#779](https://github.com/MichaelGrupp/evo/pull/779) — Add `interpolate()` for resampling trajectories |
 | [copper-project/copper-rs](https://github.com/copper-project/copper-rs) ⭐ 1.5k | [#1313](https://github.com/copper-project/copper-rs/pull/1313) — fix(spatial): pin row-major layout for Transform3D |
-| [copper-project/copper-rs](https://github.com/copper-project/copper-rs) ⭐ 1.5k | [#1333](https://github.com/copper-project/copper-rs/pull/1333) — fix(runtime): key planner output ports on (msg_type, src_channel) |
+| [copper-project/copper-rs](https://github.com/copper-project/copper-rs) | [#1333](https://github.com/copper-project/copper-rs/pull/1333) — fix(runtime): key planner output ports on (msg_type, src_channel) |
+| [copper-project/copper-rs](https://github.com/copper-project/copper-rs) | [#1375](https://github.com/copper-project/copper-rs/pull/1375) — feat(unifiedlog): add append mode to resume a cleanly closed log |
 | [Sollimann/bonsai](https://github.com/Sollimann/bonsai) ⭐ 1.1k | [#80](https://github.com/Sollimann/bonsai/pull/80) — docs: add CONTRIBUTING.md with contribution guidelines |
+
+### Other
+
+_No accepted contributions yet._
 
 ## 🚀 In-house projects
 
-| Project | Decription |
+| Project | Description |
 |---|---|
-| [phone-bridge](https://github.com/webzuweb/phone-bridge) | Мост «Android-телефон → ROS2» для Jetson Nano: IMU/GPS/камера/телеметрия |
-| [CodeKey](https://github.com/webzuweb/CodeKey) | ESP32-S3 USB HID клавиатурный мост (Android-контроллер) |
-| [InvestigationAI](https://github.com/webzuweb/InvestigationAI) | AI-рабочая станция следователя с локальным ИИ: OCR, аудио, гибридный RAG |
-| [philosophia_torch](https://github.com/webzuweb/philosophia_torch) | Философски мотивированные функции потерь и регуляризаторы для PyTorch |
+| [phone-bridge](https://github.com/webzuweb/phone-bridge) | Android → ROS2 bridge for Jetson Nano (IMU/GPS/camera/telemetry) |
+| [CodeKey](https://github.com/webzuweb/CodeKey) | ESP32-S3 USB HID keyboard bridge (Android controller) |
+| [InvestigationAI](https://github.com/webzuweb/InvestigationAI) | AI workstation for investigators with local AI: OCR, audio, hybrid RAG |
+| [philosophia_torch](https://github.com/webzuweb/philosophia_torch) | Philosophically-motivated loss functions and regularizers for PyTorch |
 
 ## 🍴 Forks
 
-| Fork | Upstream |
-|---|---|
-| [URY-RU](https://github.com/webzuweb/URY-RU) | [ury-erp/ury](https://github.com/ury-erp/ury) |
-| [darts](https://github.com/webzuweb/darts) | [unit8co/darts](https://github.com/unit8co/darts) |
-| [nltk](https://github.com/webzuweb/nltk) | [nltk/nltk](https://github.com/nltk/nltk) |
-| [sktime](https://github.com/webzuweb/sktime) | [sktime/sktime](https://github.com/sktime/sktime) |
-| [onnx](https://github.com/webzuweb/onnx) | [onnx/onnx](https://github.com/onnx/onnx) |
-| [pyro](https://github.com/webzuweb/pyro) | [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) |
-| [diffusers](https://github.com/webzuweb/diffusers) | [huggingface/diffusers](https://github.com/huggingface/diffusers) |
-| [ipython](https://github.com/webzuweb/ipython) | [ipython/ipython](https://github.com/ipython/ipython) |
-| [giga_agent](https://github.com/webzuweb/giga_agent) | [ai-forever/giga_agent](https://github.com/ai-forever/giga_agent) |
-| [catboost](https://github.com/webzuweb/catboost) | [catboost/catboost](https://github.com/catboost/catboost) |
-| [evo](https://github.com/webzuweb/evo) | [MichaelGrupp/evo](https://github.com/MichaelGrupp/evo) |
-| [copper-rs](https://github.com/webzuweb/copper-rs) | [copper-project/copper-rs](https://github.com/copper-project/copper-rs) |
-| [VIBE](https://github.com/webzuweb/VIBE) | [ai-forever/VIBE](https://github.com/ai-forever/VIBE) |
-| [dynamic_gestures](https://github.com/webzuweb/dynamic_gestures) | [ai-forever/dynamic_gestures](https://github.com/ai-forever/dynamic_gestures) |
-| [bonsai](https://github.com/webzuweb/bonsai) | [Sollimann/bonsai](https://github.com/Sollimann/bonsai) |
-| [ch-backup](https://github.com/webzuweb/ch-backup) | [yandex/ch-backup](https://github.com/yandex/ch-backup) |
-| [manim](https://github.com/webzuweb/manim) | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) |
+[URY-RU](https://github.com/webzuweb/URY-RU), [bonsai](https://github.com/webzuweb/bonsai), [catboost](https://github.com/webzuweb/catboost), [ch-backup](https://github.com/webzuweb/ch-backup), [copper-rs](https://github.com/webzuweb/copper-rs), [darts](https://github.com/webzuweb/darts), [diffusers](https://github.com/webzuweb/diffusers), [dynamic_gestures](https://github.com/webzuweb/dynamic_gestures), [evo](https://github.com/webzuweb/evo), [giga_agent](https://github.com/webzuweb/giga_agent), [ipython](https://github.com/webzuweb/ipython), [manim](https://github.com/webzuweb/manim), [nltk](https://github.com/webzuweb/nltk), [onnx](https://github.com/webzuweb/onnx), [pyro](https://github.com/webzuweb/pyro), [pytorch_geometric](https://github.com/webzuweb/pytorch_geometric), [sktime](https://github.com/webzuweb/sktime), [VIBE](https://github.com/webzuweb/VIBE), [yandex-tank](https://github.com/webzuweb/yandex-tank)
