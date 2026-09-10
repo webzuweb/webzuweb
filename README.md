@@ -21,10 +21,6 @@ Software developer for automotive multimedia systems. Interested in ML, robotics
 | [copper-project/copper-rs](https://github.com/copper-project/copper-rs) | [#1375](https://github.com/copper-project/copper-rs/pull/1375) — feat(unifiedlog): add append mode to resume a cleanly closed log |
 | [Sollimann/bonsai](https://github.com/Sollimann/bonsai) ⭐ 1.1k | [#80](https://github.com/Sollimann/bonsai/pull/80) — docs: add CONTRIBUTING.md with contribution guidelines |
 
-### Other
-
-_No accepted contributions yet._
-
 ## 🚀 In-house projects
 
 | Project | Description |
