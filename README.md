@@ -2,6 +2,8 @@
 
 Software developer for automotive multimedia systems. Interested in ML and Robotics.
 
+🌐 [webzuweb.pro](https://webzuweb.pro)
+
 ## 🤝 Open source contributions (accepted)
 
 ### ML
@@ -29,7 +31,8 @@ Software developer for automotive multimedia systems. Interested in ML and Robot
 | [CodeKey](https://github.com/webzuweb/CodeKey) | ESP32-S3 USB HID keyboard bridge (Android controller) |
 | [InvestigationAI](https://github.com/webzuweb/InvestigationAI) | AI workstation for investigators with local AI: OCR, audio, hybrid RAG |
 | [philosophia_torch](https://github.com/webzuweb/philosophia_torch) | Philosophically-motivated loss functions and regularizers for PyTorch |
+| [URY-RU](https://github.com/webzuweb/URY-RU) | Russian-market restaurant management system (iiko alternative) on ERPNext/Frappe: 1C, 54-FZ fiscalization, EGAIS, Mercury |
 
 ## 🍴 Forks
 
-[URY-RU](https://github.com/webzuweb/URY-RU), [bonsai](https://github.com/webzuweb/bonsai), [catboost](https://github.com/webzuweb/catboost), [ch-backup](https://github.com/webzuweb/ch-backup), [copper-rs](https://github.com/webzuweb/copper-rs), [darts](https://github.com/webzuweb/darts), [diffusers](https://github.com/webzuweb/diffusers), [dynamic_gestures](https://github.com/webzuweb/dynamic_gestures), [evo](https://github.com/webzuweb/evo), [giga_agent](https://github.com/webzuweb/giga_agent), [ipython](https://github.com/webzuweb/ipython), [manim](https://github.com/webzuweb/manim), [nltk](https://github.com/webzuweb/nltk), [onnx](https://github.com/webzuweb/onnx), [pyro](https://github.com/webzuweb/pyro), [pytorch_geometric](https://github.com/webzuweb/pytorch_geometric), [sktime](https://github.com/webzuweb/sktime), [VIBE](https://github.com/webzuweb/VIBE), [yandex-tank](https://github.com/webzuweb/yandex-tank)
+[bonsai](https://github.com/webzuweb/bonsai), [catboost](https://github.com/webzuweb/catboost), [ch-backup](https://github.com/webzuweb/ch-backup), [copper-rs](https://github.com/webzuweb/copper-rs), [darts](https://github.com/webzuweb/darts), [diffusers](https://github.com/webzuweb/diffusers), [dynamic_gestures](https://github.com/webzuweb/dynamic_gestures), [evo](https://github.com/webzuweb/evo), [giga_agent](https://github.com/webzuweb/giga_agent), [ipython](https://github.com/webzuweb/ipython), [manim](https://github.com/webzuweb/manim), [nltk](https://github.com/webzuweb/nltk), [onnx](https://github.com/webzuweb/onnx), [pyro](https://github.com/webzuweb/pyro), [pytorch_geometric](https://github.com/webzuweb/pytorch_geometric), [sktime](https://github.com/webzuweb/sktime), [VIBE](https://github.com/webzuweb/VIBE), [yandex-tank](https://github.com/webzuweb/yandex-tank)
