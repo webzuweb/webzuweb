@@ -12,6 +12,10 @@ Software developer for automotive multimedia systems. Interested in ML and Robot
 |---|---|
 | [onnx/onnx](https://github.com/onnx/onnx) ⭐ 21.4k | [#8383](https://github.com/onnx/onnx/pull/8383) — Fix GlobalMaxPool reference implementation for 3D inputs |
 | [nltk/nltk](https://github.com/nltk/nltk) ⭐ 14.7k | [#3819](https://github.com/nltk/nltk/pull/3819) — Fix newline in ellipsis tokens in TweetTokenizer |
+| [sktime/sktime](https://github.com/sktime/sktime) ⭐ 10.0k | [#11108](https://github.com/sktime/sktime/pull/11108) — Fix `DistFromAligner` to treat symmetric property directly |
+| [unit8co/darts](https://github.com/unit8co/darts) ⭐ 9.5k | [#3201](https://github.com/unit8co/darts/pull/3201) — Raise clear error on HTTP error status when downloading datasets |
+| [yandex/ch-backup](https://github.com/yandex/ch-backup) ⭐ 52 | [#361](https://github.com/yandex/ch-backup/pull/361) — Validate settings config type (must be a mapping) |
+| [yandex/ch-backup](https://github.com/yandex/ch-backup) | [#363](https://github.com/yandex/ch-backup/pull/363) — fix(deps): bump urllib3 2.4.0 → 2.7.0 (CVE-2026-21441) |
 
 ### ROS
 
@@ -21,7 +25,11 @@ Software developer for automotive multimedia systems. Interested in ML and Robot
 | [copper-project/copper-rs](https://github.com/copper-project/copper-rs) ⭐ 1.5k | [#1313](https://github.com/copper-project/copper-rs/pull/1313) — fix(spatial): pin row-major layout for Transform3D |
 | [copper-project/copper-rs](https://github.com/copper-project/copper-rs) | [#1333](https://github.com/copper-project/copper-rs/pull/1333) — fix(runtime): key planner output ports on (msg_type, src_channel) |
 | [copper-project/copper-rs](https://github.com/copper-project/copper-rs) | [#1375](https://github.com/copper-project/copper-rs/pull/1375) — feat(unifiedlog): add append mode to resume a cleanly closed log |
+| [copper-project/copper-rs](https://github.com/copper-project/copper-rs) | [#1391](https://github.com/copper-project/copper-rs/pull/1391) — feat(unifiedlog): add rollover(size) for fixed-size on-disk logging |
 | [Sollimann/bonsai](https://github.com/Sollimann/bonsai) ⭐ 1.1k | [#80](https://github.com/Sollimann/bonsai/pull/80) — docs: add CONTRIBUTING.md with contribution guidelines |
+| [Sollimann/bonsai](https://github.com/Sollimann/bonsai) | [#81](https://github.com/Sollimann/bonsai/pull/81) — feat(bt): add `BT::into_inner` to retrieve owned blackboard |
+| [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4.2k | [#1199](https://github.com/BehaviorTree/BehaviorTree.CPP/pull/1199) — fix: typo Slop→Slot and mark `Signal::subscribe()` `[[nodiscard]]` |
+| [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) | [#1204](https://github.com/BehaviorTree/BehaviorTree.CPP/pull/1204) — docs: clarify Precondition is evaluated once per activation, not every tick |
 
 ## 🚀 In-house projects
 
@@ -35,4 +43,4 @@ Software developer for automotive multimedia systems. Interested in ML and Robot
 
 ## 🍴 Forks
 
-[bonsai](https://github.com/webzuweb/bonsai), [catboost](https://github.com/webzuweb/catboost), [ch-backup](https://github.com/webzuweb/ch-backup), [copper-rs](https://github.com/webzuweb/copper-rs), [darts](https://github.com/webzuweb/darts), [diffusers](https://github.com/webzuweb/diffusers), [dynamic_gestures](https://github.com/webzuweb/dynamic_gestures), [evo](https://github.com/webzuweb/evo), [giga_agent](https://github.com/webzuweb/giga_agent), [ipython](https://github.com/webzuweb/ipython), [manim](https://github.com/webzuweb/manim), [nltk](https://github.com/webzuweb/nltk), [onnx](https://github.com/webzuweb/onnx), [pyro](https://github.com/webzuweb/pyro), [pytorch_geometric](https://github.com/webzuweb/pytorch_geometric), [sktime](https://github.com/webzuweb/sktime), [VIBE](https://github.com/webzuweb/VIBE), [yandex-tank](https://github.com/webzuweb/yandex-tank)
+[BehaviorTree.CPP](https://github.com/webzuweb/BehaviorTree.CPP), [bonsai](https://github.com/webzuweb/bonsai), [catboost](https://github.com/webzuweb/catboost), [ch-backup](https://github.com/webzuweb/ch-backup), [copper-rs](https://github.com/webzuweb/copper-rs), [darts](https://github.com/webzuweb/darts), [diffusers](https://github.com/webzuweb/diffusers), [dynamic_gestures](https://github.com/webzuweb/dynamic_gestures), [evo](https://github.com/webzuweb/evo), [giga_agent](https://github.com/webzuweb/giga_agent), [ipython](https://github.com/webzuweb/ipython), [manim](https://github.com/webzuweb/manim), [nltk](https://github.com/webzuweb/nltk), [onnx](https://github.com/webzuweb/onnx), [pyro](https://github.com/webzuweb/pyro), [pytorch_geometric](https://github.com/webzuweb/pytorch_geometric), [sktime](https://github.com/webzuweb/sktime), [VIBE](https://github.com/webzuweb/VIBE), [yandex-tank](https://github.com/webzuweb/yandex-tank)
