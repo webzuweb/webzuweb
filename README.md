@@ -14,8 +14,6 @@ Software developer for automotive multimedia systems. Interested in ML and Robot
 | [nltk/nltk](https://github.com/nltk/nltk) ⭐ 14.7k | [#3819](https://github.com/nltk/nltk/pull/3819) — Fix newline in ellipsis tokens in TweetTokenizer |
 | [sktime/sktime](https://github.com/sktime/sktime) ⭐ 10.0k | [#11108](https://github.com/sktime/sktime/pull/11108) — Fix `DistFromAligner` to treat symmetric property directly |
 | [unit8co/darts](https://github.com/unit8co/darts) ⭐ 9.5k | [#3201](https://github.com/unit8co/darts/pull/3201) — Raise clear error on HTTP error status when downloading datasets |
-| [yandex/ch-backup](https://github.com/yandex/ch-backup) ⭐ 52 | [#361](https://github.com/yandex/ch-backup/pull/361) — Validate settings config type (must be a mapping) |
-| [yandex/ch-backup](https://github.com/yandex/ch-backup) | [#363](https://github.com/yandex/ch-backup/pull/363) — fix(deps): bump urllib3 2.4.0 → 2.7.0 (CVE-2026-21441) |
 
 ### ROS
 
@@ -30,6 +28,13 @@ Software developer for automotive multimedia systems. Interested in ML and Robot
 | [Sollimann/bonsai](https://github.com/Sollimann/bonsai) | [#81](https://github.com/Sollimann/bonsai/pull/81) — feat(bt): add `BT::into_inner` to retrieve owned blackboard |
 | [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4.2k | [#1199](https://github.com/BehaviorTree/BehaviorTree.CPP/pull/1199) — fix: typo Slop→Slot and mark `Signal::subscribe()` `[[nodiscard]]` |
 | [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) | [#1204](https://github.com/BehaviorTree/BehaviorTree.CPP/pull/1204) — docs: clarify Precondition is evaluated once per activation, not every tick |
+
+### Other
+
+| Project | PR |
+|---|---|
+| [yandex/ch-backup](https://github.com/yandex/ch-backup) ⭐ 52 | [#361](https://github.com/yandex/ch-backup/pull/361) — Validate settings config type (must be a mapping) |
+| [yandex/ch-backup](https://github.com/yandex/ch-backup) | [#363](https://github.com/yandex/ch-backup/pull/363) — fix(deps): bump urllib3 2.4.0 → 2.7.0 (CVE-2026-21441) |
 
 ## 🚀 In-house projects
 
