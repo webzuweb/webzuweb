@@ -14,6 +14,14 @@ Software developer for automotive multimedia systems. Interested in ML and Robot
 | [nltk/nltk](https://github.com/nltk/nltk) ⭐ 14.7k | [#3819](https://github.com/nltk/nltk/pull/3819) — Fix newline in ellipsis tokens in TweetTokenizer |
 | [sktime/sktime](https://github.com/sktime/sktime) ⭐ 10.0k | [#11108](https://github.com/sktime/sktime/pull/11108) — Fix `DistFromAligner` to treat symmetric property directly |
 | [unit8co/darts](https://github.com/unit8co/darts) ⭐ 9.5k | [#3201](https://github.com/unit8co/darts/pull/3201) — Raise clear error on HTTP error status when downloading datasets |
+| [natasha/natasha](https://github.com/natasha/natasha) ⭐ 1.3k | [#150](https://github.com/natasha/natasha/pull/150) — Expand `COUNTRY_VALUE` dictionary in addr grammar |
+| [natasha/natasha](https://github.com/natasha/natasha) | [#151](https://github.com/natasha/natasha/pull/151) — Add TUPIK (тупик) street type to addr grammar |
+| [natasha/natasha](https://github.com/natasha/natasha) | [#152](https://github.com/natasha/natasha/pull/152) — Declare setuptools dependency for pymorphy2's pkg_resources import |
+| [natasha/natasha](https://github.com/natasha/natasha) | [#153](https://github.com/natasha/natasha/pull/153) — Raise a clear error when tag_morph gets a non-tagger |
+| [natasha/natasha](https://github.com/natasha/natasha) | [#154](https://github.com/natasha/natasha/pull/154) — Fix inline letter suffix dropped from house number |
+| [natasha/natasha](https://github.com/natasha/natasha) | [#155](https://github.com/natasha/natasha/pull/155) — Fix Street class to inherit from its own fact, not Settlement |
+| [catboost/catboost](https://github.com/catboost/catboost) ⭐ 9.1k | [#3180](https://github.com/catboost/catboost/pull/3180) — Fix plotly ≥ 7.0 compatibility (drop removed show_link option) |
+| [catboost/catboost](https://github.com/catboost/catboost) | [#3184](https://github.com/catboost/catboost/pull/3184) — Preserve loss link function when loading model from blob/stream |
 
 ### ROS
 
