@@ -40,6 +40,9 @@ Software developer for automotive multimedia systems. Interested in ML and Robot
 | [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) | [#1204](https://github.com/BehaviorTree/BehaviorTree.CPP/pull/1204) — docs: clarify Precondition is evaluated once per activation, not every tick |
 | [mavlink/mavros](https://github.com/mavlink/mavros) ⭐ 1.2k | [#2307](https://github.com/mavlink/mavros/pull/2307) — fix(launch): wire up respawn_mavros arg in node.launch |
 | [mavlink/mavros](https://github.com/mavlink/mavros) | [#2308](https://github.com/mavlink/mavros/pull/2308) — fix(gimbal_control): guard frame_id/tf_frame_id against data race |
+| [introlab/rtabmap](https://github.com/introlab/rtabmap) ⭐ 4.0k | [#1775](https://github.com/introlab/rtabmap/pull/1775) — fix(DBDriver): resolve lock-order inversion between dbSafeAccess and trashes mutexes |
+| [cyberbotics/webots_ros2](https://github.com/cyberbotics/webots_ros2) ⭐ 548 | [#1062](https://github.com/cyberbotics/webots_ros2/pull/1062) — fix(packaging): replace deprecated tests_require with extras_require |
+| [ros-controls/ros2_control](https://github.com/ros-controls/ros2_control) ⭐ 1.0k | [#3640](https://github.com/ros-controls/ros2_control/pull/3640) — docs(controller_manager): drop misadvised 'priority 99' limits |
 
 ### Other
 
@@ -47,6 +50,8 @@ Software developer for automotive multimedia systems. Interested in ML and Robot
 |---|---|
 | [yandex/ch-backup](https://github.com/yandex/ch-backup) ⭐ 52 | [#361](https://github.com/yandex/ch-backup/pull/361) — Validate settings config type (must be a mapping) |
 | [yandex/ch-backup](https://github.com/yandex/ch-backup) | [#363](https://github.com/yandex/ch-backup/pull/363) — fix(deps): bump urllib3 2.4.0 → 2.7.0 (CVE-2026-21441) |
+| [ManimCommunity/manim](https://github.com/ManimCommunity/manim) ⭐ 41.3k | [#5017](https://github.com/ManimCommunity/manim/pull/5017) — Fix Text/MarkupText color argument not applied to the mobject |
+| [ury-erp/ury](https://github.com/ury-erp/ury) ⭐ 382 | [#477](https://github.com/ury-erp/ury/pull/477) — fix: sanitize restaurant name in URYTable.autoname |
 
 ## 🚀 In-house projects
 
