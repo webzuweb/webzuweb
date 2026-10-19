@@ -20,8 +20,11 @@ Software developer for automotive multimedia systems. Interested in ML and Robot
 | [natasha/natasha](https://github.com/natasha/natasha) | [#153](https://github.com/natasha/natasha/pull/153) — Raise a clear error when tag_morph gets a non-tagger |
 | [natasha/natasha](https://github.com/natasha/natasha) | [#154](https://github.com/natasha/natasha/pull/154) — Fix inline letter suffix dropped from house number |
 | [natasha/natasha](https://github.com/natasha/natasha) | [#155](https://github.com/natasha/natasha/pull/155) — Fix Street class to inherit from its own fact, not Settlement |
+| [natasha/natasha](https://github.com/natasha/natasha) | [#156](https://github.com/natasha/natasha/pull/156) — Parse hyphenated double surnames as a single name |
 | [catboost/catboost](https://github.com/catboost/catboost) ⭐ 9.1k | [#3180](https://github.com/catboost/catboost/pull/3180) — Fix plotly ≥ 7.0 compatibility (drop removed show_link option) |
 | [catboost/catboost](https://github.com/catboost/catboost) | [#3184](https://github.com/catboost/catboost/pull/3184) — Preserve loss link function when loading model from blob/stream |
+| [ai-forever/dynamic_gestures](https://github.com/ai-forever/dynamic_gestures) ⭐ 129 | [#10](https://github.com/ai-forever/dynamic_gestures/pull/10) — HandDetection: reuse provider-configured session instead of re-creating it |
+| [ai-forever/dynamic_gestures](https://github.com/ai-forever/dynamic_gestures) | [#11](https://github.com/ai-forever/dynamic_gestures/pull/11) — Keep square crop square when the box is near the image edge |
 
 ### ROS
 
